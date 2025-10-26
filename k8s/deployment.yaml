@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: inderai
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: inderai
+  template:
+    metadata:
+      labels:
+        app: inderai
+    spec:
+      containers:
+        - name: inderai
+          image: inderai:latest
+          ports:
+            - containerPort: 8000

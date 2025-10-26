@@ -1,0 +1,16 @@
+{
+  "game": "Free Fire",
+  "version": "1.1.0",
+  "characters": [
+    {
+      "name": "Chrono",
+      "type": "skill",
+      "notes": "shield & dash"
+    },
+    {
+      "name": "Alok",
+      "type": "heal",
+      "notes": "area heal"
+    }
+  ]
+}

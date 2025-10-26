@@ -1,0 +1,56 @@
+{
+  "game": "MLBB",
+  "version": "1.3.0",
+  "heroes": [
+    {
+      "name": "Yu Zhong",
+      "role": "assassin",
+      "notes": "Notes for Yu Zhong. Damage profile ~99"
+    },
+    {
+      "name": "Lunox",
+      "role": "tank",
+      "notes": "Notes for Lunox. Damage profile ~193"
+    },
+    {
+      "name": "Lesley",
+      "role": "support",
+      "notes": "Notes for Lesley. Damage profile ~111"
+    },
+    {
+      "name": "Valir",
+      "role": "assassin",
+      "notes": "Notes for Valir. Damage profile ~146"
+    },
+    {
+      "name": "Esmeralda",
+      "role": "assassin",
+      "notes": "Notes for Esmeralda. Damage profile ~168"
+    },
+    {
+      "name": "Gusion",
+      "role": "support",
+      "notes": "Notes for Gusion. Damage profile ~143"
+    },
+    {
+      "name": "Tigreal",
+      "role": "support",
+      "notes": "Notes for Tigreal. Damage profile ~93"
+    },
+    {
+      "name": "Alice",
+      "role": "support",
+      "notes": "Notes for Alice. Damage profile ~71"
+    },
+    {
+      "name": "Martis",
+      "role": "fighter",
+      "notes": "Notes for Martis. Damage profile ~102"
+    },
+    {
+      "name": "Baxia",
+      "role": "marksman",
+      "notes": "Notes for Baxia. Damage profile ~130"
+    }
+  ]
+}
